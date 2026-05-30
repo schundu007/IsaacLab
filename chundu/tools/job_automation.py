@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# Copyright (c) 2022-2026, The Isaac Lab Project Developers (https://github.com/isaac-sim/IsaacLab/blob/main/CONTRIBUTORS.md).
+# All rights reserved.
+#
+# SPDX-License-Identifier: BSD-3-Clause
+
 """
 Job Search Automation Tool
 --------------------------
@@ -98,7 +103,7 @@ class ResumeProfile:
                 },
                 {
                     "title": "Cloud Senior Engineer",
-                    "company": "CNA Insurance",
+                    "company": "CNA Insurance",  # codespell:ignore cna
                     "period": "2019 - 2021",
                     "highlights": [
                         "Designed multi-cloud architecture for insurance applications",
